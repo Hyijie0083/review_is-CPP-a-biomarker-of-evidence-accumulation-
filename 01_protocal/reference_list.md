@@ -2,4 +2,4 @@
     recommend 5: explore the character of CPP in cognitive process
 
 2. Van Vugt, M. K., Beulen, M. A., & Taatgen, N. A. (2016). Is there neural evidence for an evidence accumulation process in memory decisions?. Frontiers in Human Neuroscience, 10, 93.
-    Using ECoG to explore neural signature of evidence accumulation
+    Using ECoG to explore neural signature of evidence accumulation. It has criterions for accumulator
